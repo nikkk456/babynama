@@ -16,6 +16,7 @@
   width: 42px;
   height: 43px;
   border-radius: 30px;
+  cursor: pointer;
   border: 1px solid white;
   background-color: transparent;
 }
